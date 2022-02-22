@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 xyz
 abc
 123
 mno
+=======
+I love Pizza
+I love panipuri
+I love potato
+>>>>>>> master
